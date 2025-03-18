@@ -1,3 +1,4 @@
+ghcr.io/mendableai/firecrawl:latest
 nginx
 #支持私库
 xhofe/alist:latest
